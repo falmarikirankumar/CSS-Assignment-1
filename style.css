@@ -1,0 +1,26 @@
+h1,
+h2,
+h3 {
+    color: red;
+}
+
+li {
+    color: brown;
+}
+
+p {
+    color: saddlebrown;
+}
+
+#mide-text-line {}
+
+.space {
+    letter-spacing: 7px;
+}
+
+.bgcolor {
+
+    background-color: yellow;
+    font-weight: bold;
+
+}
